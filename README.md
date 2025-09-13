@@ -287,7 +287,7 @@ discord-jm/
 ```
 MIT License
 
-Copyright (c) 2025 MoeBBS
+Copyright (c) 2025 A paramecium
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
