@@ -6,8 +6,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/mhya123/dc-jmbot.git
-cd dc-jmbot
+git clone https://github.com/mhya123/discord-jm.git
+cd discord-jm
 
 # 安装依赖
 pip install -r requirements.txt
@@ -20,9 +20,9 @@ python dc-jm.py
 
 ## 🔗 项目链接
 
-- **GitHub仓库**: [https://github.com/mhya123/dc-jmbot](https://github.com/mhya123/dc-jmbot)
-- **问题反馈**: [GitHub Issues](https://github.com/mhya123/dc-jmbot/issues)
-- **功能建议**: [GitHub Discussions](https://github.com/mhya123/dc-jmbot/discussions)
+- **GitHub仓库**: [https://github.com/mhya123/discord-jm](https://github.com/mhya123/discord-jm)
+- **问题反馈**: [GitHub Issues](https://github.com/mhya123/discord-jm/issues)
+- **功能建议**: [GitHub Discussions](https://github.com/mhya123/discord-jm/discussions)
 
 ## 功能特性
 
@@ -43,7 +43,7 @@ python dc-jm.py
 
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/mhya123/dc-jmbot.git
+git clone https://github.com/mhya123/discord-jm.git
 cd dc-jmbot
 ```
 
